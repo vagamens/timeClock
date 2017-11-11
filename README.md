@@ -3,17 +3,8 @@
 a simple cli timeClock.
 
 usage:
-'''
-python time in
-'''
-to clock in
+`python time in`  to clock in
 
-'''
-python time out
-'''
-to clock out
+`python time out` to clock out
 
-'''
-python time calce
-'''
-to calculate total working time
+`python time calce` to calculate total working time
